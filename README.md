@@ -167,7 +167,7 @@ There are two steps:
        ```
        
     ```
-                url | hostpathquery | hostpath |              host               
+     url | hostpathquery | hostpath |              host               
     -----+---------------+----------+---------------------------------
     591 |           573 |      573 | com,antiwar)
     299 |           301 |      301 | com,thebigsmoke)
